@@ -7,7 +7,7 @@ PROJECT_NAME ="oneNuron_pypi"
 USER_NAME ="amit15"
 
 setuptools.setup(
-    name="f"{PROJECT_NAME}-{USER_NAME}",
+    name=f"{PROJECT_NAME}-{USER_NAME}",
     version="0.0.1",
     author="USER_NAME",
     author_email="author@example.com",
